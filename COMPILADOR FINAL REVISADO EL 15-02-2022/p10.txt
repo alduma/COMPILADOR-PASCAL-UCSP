@@ -1,0 +1,11 @@
+const d= 'd';
+var x:char;
+    y:integer;
+begin
+	write("please input 'e':");
+	read (x);
+	y :=x+45;
+	if x>=d
+	write("success!  ",y)
+	else write("fail")
+end.
