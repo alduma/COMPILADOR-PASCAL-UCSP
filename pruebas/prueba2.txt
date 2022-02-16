@@ -1,0 +1,9 @@
+var x:real;
+    y:real;
+begin
+	write("please input :");
+	read (x);
+	y :=x-4;
+	write(y);
+	write(x);
+end.

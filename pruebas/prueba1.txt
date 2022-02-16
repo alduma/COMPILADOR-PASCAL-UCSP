@@ -1,0 +1,15 @@
+var n :real;
+    i :integer;
+    t :array[5] of integer;
+begin
+    n :=0;
+    t[0] := 0;
+    t[1] := 10;
+    t[2] := 20;
+    t[3] := 30;
+    t[4] := 40;
+    
+    for i := 4 downto 0 do
+        write(t[i]);
+    write(n);
+end.
