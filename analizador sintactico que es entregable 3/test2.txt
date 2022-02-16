@@ -1,0 +1,4 @@
+program Test1error;
+begin
+	Write('Hello World!!')
+end
